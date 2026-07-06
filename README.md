@@ -203,7 +203,7 @@ This project demonstrates practical knowledge of:
 **Subhayan Mitra**
 
 - GitHub: https://github.com/OfficialSubhayan
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/subhayan-mitra/
 
 ---
 
